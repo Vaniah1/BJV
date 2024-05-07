@@ -1,7 +1,7 @@
 body {
   font-family: "Montserrat", sans-serif;
   background: url(/green.jpeg);
-  background-size: cover;
+  background-size: 100%;
   body {
     font-family: "Montserrat", sans-serif;
     background: green;
@@ -84,7 +84,7 @@ body {
 
   button {
     color: yellow;
-    width: 200px;
+    width: 100%;
     background: #ff5858;
     padding: 10px 20px;
     font-weight: 600;
